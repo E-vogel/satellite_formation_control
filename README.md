@@ -1,4 +1,4 @@
-# Satellite Orbit Simulation
+# Satellite Formation Control
 
 This MATLAB script simulates and visualizes the motion of a satellite orbiting the Earth. The simulation uses Newtonian gravity, orbital dynamics, and the leapfrog integral method to calculate the satellite's orbit. It also uses consensus control to form the satellite into a star shape.
 ## Features
