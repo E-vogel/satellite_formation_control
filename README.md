@@ -22,7 +22,7 @@ This MATLAB script simulates and visualizes the motion of a satellite orbiting t
 
 ## Output
 
-
+![Image](https://github.com/user-attachments/assets/b46a88f7-acd8-4157-868c-beda9f887e7c)
 
 ## License
 
